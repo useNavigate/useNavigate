@@ -17,13 +17,13 @@ My proficiency in graphic design has also equipped me with valuable skills in de
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=useNavigate)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=useNavigate&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-# Check Out My Projects 
+<!-- # Check Out My Projects 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=useNavigate&repo=Zelp)](https://github.com/useNavigate/Zelp)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=useNavigate&repo=Whale_Gaming_Javascript_Project)](https://github.com/useNavigate/Whale_Gaming_Javascript_Project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smuushi&repo=What-AI-Want)](https://github.com/smuushi/What-AI-Want)
+ -->
 
-
-
+# Check out my projects 👇
 
 <!-- **useNavigate/useNavigate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
