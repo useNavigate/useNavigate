@@ -2,7 +2,12 @@
 
 
 ![image](https://user-images.githubusercontent.com/106133580/234363153-046a76fd-631b-4117-85cb-ac2771caf68a.png)
+
+| ReactJS | Rails | Javascript | HTML | CSS | SQL | PostgreSQL | MongoDB | Mongoose | Node.js | Express | Git | AWS S3 |
+|---------|-------|------------|------|-----|-----|------------|---------|----------|---------|---------|-----|--------|
+
 Hey there! I'm a recent graduate from App Academy's Web Development program and I'm passionate about building web applications I've had the pleasure of working on some amazing projects where I collaborated with teammates to build innovative and robust applications.
+
 
 I'm proficient in `ReactJS`, `Ruby on Rails`, `Javascript`, `HTML`, `CSS`, `SQL`, `PostgreSQL`, `MongoDB`, `Mongoose`, `Node.js`, `Express.js`, `Git`, and `AWS S3`, which allows me to build scalable and efficient web applications. Plus, I have a strong background in graphic design, which helps me create visually appealing and functional designs that enhance user experience.
 
