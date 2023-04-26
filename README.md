@@ -3,8 +3,8 @@
 
 ![image](https://user-images.githubusercontent.com/106133580/234363153-046a76fd-631b-4117-85cb-ac2771caf68a.png)
 
-| ReactJS | Rails | Javascript | HTML | CSS | SQL | SQL | MongoDB | Mongoose | Node.js | Express | Git | AWS S3 |
-|---------|-------|------------|------|-----|-----|-----|---------|----------|---------|---------|-----|--------|
+| ReactJS | Rails | Javascript | HTML | CSS | SQL | MongoDB | Mongoose | Node.js | Express | Git | AWS S3 |
+|---------|-------|------------|------|-----|-----|---------|----------|---------|---------|-----|--------|
 
 Hey there! I'm a recent graduate from App Academy's Web Development program and I'm passionate about building web applications I've had the pleasure of working on some amazing projects where I collaborated with teammates to build innovative and robust applications.
 
