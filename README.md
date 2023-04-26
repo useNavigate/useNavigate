@@ -2,9 +2,13 @@
 
 
 ![image](https://user-images.githubusercontent.com/106133580/234363153-046a76fd-631b-4117-85cb-ac2771caf68a.png)
-As a recent graduate from App Academy's Web Development program, I have cultivated my expertise in constructing web applications from scratch. My experience includes collaborating on numerous projects, such as Whale Gaming, Zelp, and What AI Want. My proficiency spans across `ReactJS`, `Ruby on Rails`, `Javascript`, `HTML`, `CSS`,`PostgreSQL`, `MongoDB`, `Mongoose`, `Node.js`, `Express.js`, `Git`, and `AWS S3`.
+Hey there! I'm a recent graduate from App Academy's Web Development program and I'm passionate about building web applications I've had the pleasure of working on some amazing projects where I collaborated with teammates to build innovative and robust applications.
 
-My proficiency in graphic design has also equipped me with valuable skills in developing visually appealing and functional designs that elevate user experience. I have acquired the ability to closely collaborate with clients to comprehend their requirements and surpass their expectations. Additionally, I possess expertise in using `Adobe Photoshop`, `Adobe Illustrator`, `Adobe Premiere Pro`, `Figma`,`Corel Draw` and `Flexi SAi`
+I'm proficient in `ReactJS`, `Ruby on Rails`, `Javascript`, `HTML`, `CSS`, `SQL`, `PostgreSQL`, `MongoDB`, `Mongoose`, `Node.js`, `Express.js`, `Git`, and `AWS S3`, which allows me to build scalable and efficient web applications. Plus, I have a strong background in graphic design, which helps me create visually appealing and functional designs that enhance user experience.
+
+One thing I love about web development is working closely with my teammates to understand project requirements and exceed expectations. I pride myself on my ability to listen to others and collaborate to create something truly amazing.
+
+I'm always excited to take on new projects and continue learning and growing as a developer. So, let's connect and explore how we can work together to build some awesome web applications!
 
 # Find Me 👇
 <a href="https://www.linkedin.com/in/sara-ryu-798165261/"><img src="https://www.freeiconspng.com/uploads/linkedin-logo-3.png" width="50" /></a>
