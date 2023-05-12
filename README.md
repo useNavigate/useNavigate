@@ -1,5 +1,3 @@
-# Hi I am Sara 👋😀
-
 
 ![image](https://user-images.githubusercontent.com/106133580/234363153-046a76fd-631b-4117-85cb-ac2771caf68a.png)
 
